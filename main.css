@@ -1,0 +1,103 @@
+h1{
+    color: greenyellow;
+    font-family: verdana;
+  font-size: 19px; 
+}
+
+h2{
+    color: greenyellow;
+    font-family: verdana;
+  font-size: 17px; 
+
+
+}
+
+p {
+    color: greenyellow;
+    font-family: verdana;
+  font-size: 16px;
+}
+
+body{
+    background-image: url("tryfan.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.container {
+  display:flex;
+  flex-direction:row; 
+}
+
+.fleximg { 
+ max-width:100%;
+ flex: 1;
+}
+
+.imgsize {
+  width: 100%;
+}
+
+.flextext {
+flex: 1;
+}
+
+
+
+.container {
+  display:flex;
+  flex-direction:row; 
+}
+
+.fleximg { 
+ max-width:100%;
+ flex: 1;
+}
+
+.imgsize {
+  width: 100%;
+}
+
+.flextext {
+flex: 1;
+}
+
+.container {
+  display:flex;
+  flex-direction:row; 
+}
+
+.fleximg { 
+ max-width:100%;
+ flex: 1;
+}
+
+.imgsize {
+  width: 100%;
+}
+
+.flextext {
+flex: 1;
+
+
+
+}
+
+.container {
+  display:flex;
+  flex-direction:row; 
+}
+
+.fleximg { 
+ max-width:100%;
+ flex: 1;
+}
+
+.imgsize {
+  width: 100%;
+}
+
+.flextext {
+flex: 1;
+}
